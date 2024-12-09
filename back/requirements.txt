@@ -1,0 +1,11 @@
+transformers==4.39.3 
+groq 
+livekit
+livekit-api
+faster-whisper
+python-dotenv
+spicy
+soundfile
+silero-vad
+librosa
+openai

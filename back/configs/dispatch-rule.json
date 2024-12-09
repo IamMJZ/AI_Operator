@@ -1,0 +1,13 @@
+{
+    "name": "Dispatch Rule - Other",
+    "trunk_ids": [
+        "ST_rxb5xeaYxdjc"
+    ],
+    "hide_phone_number": false,
+    "rule": {
+        "dispatchRuleIndividual": {
+            "roomPrefix": "call-",
+            "pin": ""
+        }
+    }
+}

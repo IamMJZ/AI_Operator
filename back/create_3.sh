@@ -1,0 +1,1 @@
+python new_server.py load ru room_3 python_bot_3

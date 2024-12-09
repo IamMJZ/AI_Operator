@@ -1,0 +1,13 @@
+{
+    "name": "dispatch rule - Uzbek",
+    "trunk_ids": [
+        "ST_W4N3wBqynEZR"
+    ],
+    "hide_phone_number": false,
+    "rule": {
+        "dispatchRuleDirect": {
+            "roomName": "open-room-uzbek",
+            "pin": ""
+        }
+    }
+}

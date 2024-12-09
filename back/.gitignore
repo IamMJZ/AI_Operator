@@ -1,0 +1,17 @@
+bin/
+inlcude/
+lib/
+lib64/
+*_venv/
+*.env
+.env.production
+/output/output_*.wav
+venv/
+__pycache__
+*.log
+# *.ipynb
+frames/
+*.png
+videos/
+*.png
+*.mp4

@@ -1,0 +1,10 @@
+{
+    "trunk": {
+        "name": "Twilio inbound trunk - Uzbek",
+        "numbers": [
+            "+17752629614"
+        ],
+        "auth_username": "aslon1213",
+        "auth_password": "Aslon2001#"
+    }
+}
